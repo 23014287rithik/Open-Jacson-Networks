@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65177da3-8785-48cc-8ec7-5b8bcb9231ce)# Series Queues with infinite capacity - Open Jackson Network
+# Series Queues with infinite capacity - Open Jackson Network
 # Rithik V
 # 212223230171
 ## Aim :
